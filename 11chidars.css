@@ -1,0 +1,147 @@
+body {
+  background-color: #547274;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.glavniy {
+  /* margin: 180px 50px; */
+  width: 85%;
+  background-color: #90a8aa;
+  height: 100%;
+  min-width: 600px;
+  /* padding: 0 50px 0 50px; */
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  /* margin-top: 30px; */
+  color: rgb(5, 83, 87);
+}
+.navitems {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+}
+.nav2 {
+  font-weight: bolder;
+  /* display: flex;
+  align-items: center; */
+  border-bottom: 2px solid rgb(5, 83, 87);
+}
+.fa-user {
+  width: 50px;
+}
+.nav1 {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  /* border-bottom: 2px solid rgb(5, 83, 87); */
+}
+.nav3 {
+  font-weight: bolder;
+}
+.content {
+  display: flex;
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-right: 10%; */
+  width: 300px;
+  /* background-color: red; */
+  /* flex: 1; */
+  flex-direction: column;
+}
+.container2 {
+  display: flex;
+  /* flex: 3; */
+  /* position: relative; */
+}
+i {
+  color: white;
+  width: 100px;
+}
+.container3 {
+  height: 80%;
+  width: 350px;
+  display: flex;
+  /* margin-right: 800px; */
+
+  /* flex: 1; */
+  /* margin-top: 50px;
+  margin-right: 50px; */
+}
+
+.con1 {
+  /* padding: 30px 20px; */
+  background-color: rgb(222, 248, 249);
+  margin-bottom: 30%;
+  width: 100px;
+
+  /* margin: 0 70px;
+  margin-top: 70px; */
+}
+.con2 {
+  /* padding: 30px 20px; */
+  background-color: rgb(222, 248, 249);
+  width: 100px;
+
+  /* margin: 40px 70px; */
+}
+img {
+  /* position: absolute;*/
+  margin-top: -220px;
+  width: 300px;
+  /* margin-left: 100px; */
+}
+h1 {
+  font-size: 50px;
+  color: rgb(8, 82, 85);
+  /* margin-right: 300px;
+  margin-top: 150px; */
+}
+p {
+  color: #547274;
+}
+h3 {
+  color: rgb(8, 82, 85);
+}
+button {
+  background-color: rgb(155, 185, 187);
+  width: 150px;
+  height: 35px;
+  /* border-radius: 1px solid rgb(8,82,85) ; */
+  border: 2px solid rgb(8, 82, 85);
+  color: rgb(8, 82, 85);
+}
+button:hover {
+  color: aliceblue;
+  background-color: black;
+}
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+}
+p {
+  color: rgb(8, 82, 85);
+  font-size: 13px;
+}
+.fot {
+  font-weight: bold;
+}
+.fot1 {
+  font-weight: bolder;
+}
+.none {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(8, 82, 85);
+}
